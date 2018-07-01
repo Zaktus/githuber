@@ -6,9 +6,9 @@ import Loading from '../../components/loading/loading';
 import Header from '../../components/header/header';
 import Repositories from '../../components/repositories/respositories';
 
-const defaultName = 'Alex Casillas';
+const defaultName = 'Zaktus';
 const defaultAvatar =
-  'https://avatars0.githubusercontent.com/u/9496960?v=4&s=460';
+  'https://avatars2.githubusercontent.com/u/948410?v=4';
 
 const Wrapper = styled.div`
   width: 1200px;

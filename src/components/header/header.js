@@ -80,7 +80,7 @@ const Header = ({ title, avatar, followingCount, followersCount }) =>
       <Grid>
         <Column size={2} style={{ textAlign: 'right', paddingRight: 10 }}>
           <a
-            href="https://twitter.com/alexvcasillas"
+            href="https://twitter.com/zaktus"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -94,7 +94,7 @@ const Header = ({ title, avatar, followingCount, followersCount }) =>
         </Column>
         <Column size={2} style={{ textAlign: 'left', paddingLeft: 10 }}>
           <a
-            href="https://github.com/alexvcasillas"
+            href="https://github.com/zaktus"
             target="_blank"
             rel="noopener noreferrer"
           >
