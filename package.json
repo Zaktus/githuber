@@ -1,6 +1,6 @@
 {
-  "name": "react-mobx-state-tree",
-  "version": "0.2.0",
+  "name": "githuber",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "apollo-boost": "^0.1.4",
@@ -18,5 +18,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "devDependencies": {}
 }
